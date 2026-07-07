@@ -1,2 +1,5 @@
 # Ignore 
 .vscode/
+#Ignore 
+code.cpp
+code
